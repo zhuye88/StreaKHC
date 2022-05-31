@@ -91,4 +91,4 @@ The evaluation result is shown in /exp_out/ default. For each of the randomly sh
 ---
 ## License ##
 ---
-BSD license
+GPL-3.0 license
